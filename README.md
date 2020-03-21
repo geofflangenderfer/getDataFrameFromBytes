@@ -2,7 +2,7 @@
 Convenience function to upload a csv to Google Colab
 
 # How will this help me?
-Save some time converting from [bytes][0] to pandas.dataFrame[1]
+Save some time converting from [bytes][0] to [pandas.dataFrame][1]
 
 # How do I use this?
 Use something like the following in a [google colab](https://colab.research.google.com/)
