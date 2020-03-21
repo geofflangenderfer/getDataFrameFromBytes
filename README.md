@@ -2,7 +2,7 @@
 Convenience function to upload a csv to Google Colab
 
 # How will this help me?
-Save some time converting from bytes to pandas.dataFrame
+Save some time converting from [bytes][0] to pandas.dataFrame[1]
 
 # How do I use this?
 Use something like the following in a [google colab](https://colab.research.google.com/)
@@ -28,3 +28,6 @@ Results in:
 
 [5 rows x 26 columns]
 ```
+
+[0]: https://docs.python.org/3/library/stdtypes.html#bytes-objects
+[1]: https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
