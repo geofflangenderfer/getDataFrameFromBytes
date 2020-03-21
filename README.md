@@ -10,7 +10,6 @@ Use something like the following in a [google colab](https://colab.research.goog
 from getDataframeFromBytes import getDataframe
 import pandas as pd
 from google.colab import files
-from io import StringIO
 
 
 bytes_csv = files.upload()['Reduced_DataSet (1).csv']
